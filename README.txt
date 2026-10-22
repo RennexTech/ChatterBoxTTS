@@ -5,7 +5,7 @@ THE MAIN GUI
 ------------
 chatterbox_studio.py is the main application. The JSON files chatterbox_studio_session.json and chatterbox_studio_settings.json are generated and managed by the GUI. The launchers do not read, rewrite, delete, or regenerate them.
 
-Adding custom voices: Drop compatible reference voice `.wav` files into `D:\files\chatterbox.v1\voices\`; they will appear in the GUI’s Voice dropdown automatically on startup, or click Refresh voices button, if you add them while the GUI is open. D: is my location, yours might be different.
+Adding custom voices: Drop compatible reference voice `.wav` files into `D:\files\chatterbox.v1\voices\` or whatever location you setup; they will appear in the GUI’s Voice dropdown automatically on startup, or click Refresh voices button, if you add them while the GUI is open. D: is my location, yours might be different.
 
 DAILY LAUNCH
 ------------
