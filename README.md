@@ -13,7 +13,7 @@ I use an old pc from 2011 era, i5 2310 and radeon r5 430, which are absolutely o
 
 This PC is perfect for anything, ollama and Text to Speech AI models, it handles both. 
 
-So, for those who have the bigger system, you'll find the 4 TTS tools I uplaoded here very useful, and balabolka might loose its place. 
+So, for those who have the bigger system, you'll find the 4 TTS tools I uploaded here very useful, and balabolka might loose its place. 
 
 If you want balabolka voices, inbox me at gmail. I was given almost all IVONA voices and some other balabolka ones for free. 
 
